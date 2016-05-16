@@ -1,1 +1,1 @@
-# ajuna.blog.github.io
+# ajuna.github.io
